@@ -65,7 +65,3 @@ class ciagi:
             print(an)
         else:
             print(a1)
-
-
-
-#Przepraszam że nie dokończyłem, ale w ten weekend się przeprowadzałem o 250km. Pochłonęlo mi to naprawdę mnóstwo czasu. Mam nadzieję, że to nie jest duży problem.
